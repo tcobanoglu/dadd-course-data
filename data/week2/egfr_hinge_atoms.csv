@@ -1,0 +1,7 @@
+compound_id,pdb_id,chain,ligand_code,ligand_residue,ligand_atom,protein_residue,protein_atom,ligand_x,ligand_y,ligand_z,protein_x,protein_y,protein_z,note
+D01,4G5J,A,0WN,1101,N3,Met793,N,52.705,-1.567,-20.443,55.447,-2.830,-19.005,Use afatinib occurrence 0WN at A1101. This is the occurrence linked to Cys797.
+D02,6JXT,A,YY3,1101,N4,Met793,N,-12.811,53.532,11.617,-13.332,54.643,14.582,"The structure contains three engineered substitutions outside the hinge, at 865 to 867."
+D03,1M17,A,AQ4,999,N2,Met769,N,21.747,-2.039,55.319,20.898,-2.866,57.744,The PDB entry numbers this residue Met769. It maps to Met793 in UniProt P00533.
+D04,1XKK,A,FMM,91,N18,Met793,N,12.683,33.305,37.276,10.035,33.489,35.966,
+D05,2ITY,A,IRE,2020,N3,Met793,N,-54.287,1.766,-21.024,-56.510,2.925,-20.106,
+D06,4I23,A,1C9,9001,N7,Met793,N,-1.789,-54.758,-21.195,-2.864,-57.128,-20.310,The deposited ligand model contains only 22 of the 33 ligand heavy atoms.
